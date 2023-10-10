@@ -1,6 +1,7 @@
 ---
-title: "speed-and-distance"
-date: "2023-10-09"
+title: "index"
+output: html_document
+date: "2023-10-10"
 ---
 
 ```{r setup, include=FALSE}
@@ -26,5 +27,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-GMM
